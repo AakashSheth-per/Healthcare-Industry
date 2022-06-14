@@ -1,1 +1,3 @@
 # Healthcare-Industry
+
+The dataset used in this experiment came from NIDDK. The National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) conducts research to learn more about and develop therapies for the most chronic, costly, and devastating diseases. The goal is to predict whether or not a patient has diabetes using diagnostic parameters from the dataset. Create a model that can accurately predict whether or not the patients in the dataset have diabetes. Description of the Dataset The datasets include various medical predictor factors as well as one target variable (Outcome). Predictor variables include the patient's number of pregnancies, BMI, insulin level, age, and other factors.
